@@ -10,6 +10,6 @@ En esta práctica vamos a implementar un simulador para algunas _leyes de la fí
 Utilizaremos un diseño orientado a objetos para poder manejar distintas clases de cuerpos y de leyes de fuerzas. Además, utilizaremos genéricos para implementar factorías, tanto para los cuerpos como para las leyes de fuerza.
 Un _paso de simulación_ consiste en inicializar la fuerza aplicada a cada cuerpo, aplicar las leyes de fuerza para cambiar las fuerzas aplicadas a los cuerpos, y después solicitar a cada cuerpo que se mueva.
 
-<img src=./imagen.jpg>  </img>
+<img src=./README/imagen.jpg>  </img>
 
-[Enunciados](../Enunciados)
+[Enunciados](./Enunciados)
